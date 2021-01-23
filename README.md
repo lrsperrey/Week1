@@ -5,7 +5,8 @@ Week 1 Homework  - Markdown
 
 **Hunter Station**
 
-    [Oral History] (https://lwlcdigitallib.alasu.edu/digital/collection/Oralhis/id/34/)
+    Oral History [Ms. Berry](https://lwlcdigitallib.alasu.edu/digital/collection/Oralhis/id/34/)
+    
     
     *Written History* (https://www.trenholmstate.edu/future-students/student-resources/library/collections/madison-family-collection/)
 
