@@ -8,8 +8,8 @@ Week 1 Homework  - Markdown
     - *Written History* (https://www.trenholmstate.edu/future-students/student-resources/library/collections/madison-family-collection/)
 
 ** Famous Hunter Station Alumni**
-    - 1. Judge Charles Price ! [Picture of Judge Price receiving award] (https://images.app.goo.gl/W1RNZRgX5uC2GaRQ8)
-    - 2. Attorney Arthur Madison ! [Picture of Attorney Madison] (https://images.app.goo.gl/Rb6uc7aXVXKGf1Bn6)
+    - 1. Judge Charles Price ![Picture of Judge Price receiving award](https://images.app.goo.gl/W1RNZRgX5uC2GaRQ8)
+    - 2. Attorney Arthur Madison ![Picture of Attorney Madison](https://images.app.goo.gl/Rb6uc7aXVXKGf1Bn6)
 
 ** TO DO LIST**
 - [] Find More Internet Resources
